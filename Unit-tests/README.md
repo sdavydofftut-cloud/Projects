@@ -6,10 +6,10 @@ Unit-тесты для проверки методов программы Stella
 
 Структура проекта
 - `praktikum` - пакет, содержащий код программы
-- `tests` - пакет, содержащий тесты по классe btest_burger.py
+- `tests` - пакет, содержащий тесты по классу test_burger.py
 
-Установка зависимостей
-- > `$ pip install -r requirements.txt`
+Установка зависимостей  
+> `$ pip install -r requirements.txt`
 
-Запуск автотестов и создание HTML-отчета о покрытии
-- >  `$ pytest --cov=praktikum --cov-report=html`
+Запуск автотестов и создание HTML-отчета о покрытии  
+>  `$ pytest --cov=praktikum --cov-report=html`
