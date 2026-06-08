@@ -8,8 +8,8 @@
 - `praktikum` - пакет, содержащий код программы
 - `tests` - пакет, содержащий тесты по классe btest_burger.py
 
-Запуск автотестов
-**Установка зависимостей**
-> `$ pip install -r requirements.txt`
-**Запуск автотестов и создание HTML-отчета о покрытии**
->  `$ pytest --cov=praktikum --cov-report=html`
+Установка зависимостей
+- > `$ pip install -r requirements.txt`
+
+Запуск автотестов и создание HTML-отчета о покрытии
+- >  `$ pytest --cov=praktikum --cov-report=html`
